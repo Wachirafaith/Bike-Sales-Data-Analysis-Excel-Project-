@@ -18,7 +18,7 @@ The file contains:
 4. **Dashboard**: Interactive dashboard summarizing key insights from the dataset.
 
 
-### Data Cleaning & Transformation
+### Data Cleaning and Transformation
 
 Performed in Excel with the following key steps:
 
